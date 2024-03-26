@@ -19,7 +19,7 @@ const quizData = [
         options: ["Satya Nadela", "Sundar Pichai", "Parag Agarwal","Tim Cook"],
         answer: "Sundar Pichai"
     }
-];
+]; // More questions can be added here.
 
 let currentQuestion = 0;
 let score = 0;
